@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Contact Manager App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It allows you to add contacts using name and email id. Contact details will be stored in browser local storage.
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+
+To install node modules.
 
 ### `npm start`
 
