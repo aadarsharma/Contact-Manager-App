@@ -1,5 +1,5 @@
-## Contact Manager App
-
+# Contact Manager App
+my name is aadarsh
 It allows you to add contacts using name and email id. Contact details will be stored in browser local storage.
 
 ## Available Scripts
