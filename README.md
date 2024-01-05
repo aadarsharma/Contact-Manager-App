@@ -1,4 +1,4 @@
-# Contact Manager App
+## Contact Manager App
 
 It allows you to add contacts using name and email id. Contact details will be stored in browser local storage.
 
